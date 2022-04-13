@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2976d868.css",
+    "main.js": "/static/js/main.d056d3e3.js",
+    "static/js/787.4a341c0e.chunk.js": "/static/js/787.4a341c0e.chunk.js",
+    "static/media/2.mp4": "/static/media/2.7405206c9b7be50265e2.mp4",
+    "static/media/3.mp4": "/static/media/3.7788ddf70e04bb7fab19.mp4",
+    "static/media/7.mp4": "/static/media/7.3738063029d916b2d19a.mp4",
+    "static/media/6.mp4": "/static/media/6.e6e58e78651e0b12629e.mp4",
+    "static/media/1.mp4": "/static/media/1.d55e5e88c4f85fc55860.mp4",
+    "static/media/8.mp4": "/static/media/8.10a72a29a95f4dcd6354.mp4",
+    "static/media/5.mp4": "/static/media/5.b8c2baf698a2a0db7622.mp4",
+    "static/media/4.mp4": "/static/media/4.24ae3af0873c4cf3dfee.mp4",
+    "static/media/2.jpg": "/static/media/2.f11e4ba01a721faaac45.jpg",
+    "static/media/3.jpg": "/static/media/3.4a70e83716fe25cad188.jpg",
+    "static/media/1.jpg": "/static/media/1.053f71bd737b249c8033.jpg",
+    "static/media/logo.png": "/static/media/logo.3030b1d58a102deeb42b.png",
+    "static/media/Maryam.jpg": "/static/media/Maryam.d2f1b52cbcabe2ea0357.jpg",
+    "static/media/Badawey.jpg": "/static/media/Badawey.13fcdc4c591c400770c9.jpg",
+    "static/media/Hisham.jpg": "/static/media/Hisham.1f76d9986bc52bd238ed.jpg",
+    "static/media/Amani.jpg": "/static/media/Amani.80dfd47d69fd17b869b8.jpg",
+    "index.html": "/index.html",
+    "main.2976d868.css.map": "/static/css/main.2976d868.css.map",
+    "main.d056d3e3.js.map": "/static/js/main.d056d3e3.js.map",
+    "787.4a341c0e.chunk.js.map": "/static/js/787.4a341c0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2976d868.css",
+    "static/js/main.d056d3e3.js"
+  ]
+}
